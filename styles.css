@@ -129,11 +129,14 @@ body{
     font-weight: 300;
     color: #1f2937;
     font-style: italic;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 .quote-by{
     text-align: right;
     font-size: 18px;
     font-weight: 800;
+    margin-right: 300px;
 }
 
 .action-box{
